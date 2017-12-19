@@ -8,7 +8,7 @@
        'students': [
          {
            'name': 'Donna Sloper',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/162x148.png/3d3d3d/ffffff',
            'active': true,
            'sprints': [
              {
@@ -43,7 +43,7 @@
          },
          {
            'name': 'Roana Menego',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/102x187.png/dddddd/000000',
            'active': false,
            'sprints': [
              {
@@ -78,7 +78,7 @@
          },
          {
            'name': 'Ofella Weakley',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/190x155.png/dddddd/000000',
            'active': false,
            'sprints': [
              {
@@ -113,7 +113,7 @@
          },
          {
            'name': 'Gretchen Gerhts',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/147x166.png/5fa2dd/ffffff',
            'active': false,
            'sprints': [
              {
@@ -148,7 +148,7 @@
          },
          {
            'name': 'Judy Meindl',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/220x128.png/5fa2dd/ffffff',
            'active': true,
            'sprints': [
              {
@@ -183,7 +183,7 @@
          },
          {
            'name': 'Jillene Porch',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/132x125.png/5fa2dd/ffffff',
            'active': true,
            'sprints': [
              {
@@ -218,7 +218,7 @@
          },
          {
            'name': 'Sydney Burlingham',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/100x167.png/ff4444/ffffff',
            'active': true,
            'sprints': [
              {
@@ -253,7 +253,7 @@
          },
          {
            'name': 'Alexi Gindghill',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/113x215.png/ff4444/ffffff',
            'active': true,
            'sprints': [
              {
@@ -288,7 +288,7 @@
          },
          {
            'name': 'Donna Fearnill',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/221x239.png/ff4444/ffffff',
            'active': false,
            'sprints': [
              {
@@ -323,7 +323,7 @@
          },
          {
            'name': 'Chiarra Dutton',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/163x246.png/ff4444/ffffff',
            'active': true,
            'sprints': [
              {
@@ -358,7 +358,7 @@
          },
          {
            'name': 'Drusilla Terron',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/165x131.png/ff4444/ffffff',
            'active': false,
            'sprints': [
              {
@@ -393,7 +393,7 @@
          },
          {
            'name': 'Karola Leathart',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/154x140.png/ff4444/ffffff',
            'active': false,
            'sprints': [
              {
@@ -428,7 +428,7 @@
          },
          {
            'name': 'Jacquelin Beglin',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/184x226.png/cc0000/ffffff',
            'active': true,
            'sprints': [
              {
@@ -463,7 +463,7 @@
          },
          {
            'name': 'Dorella Simants',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/189x105.png/dddddd/000000',
            'active': false,
            'sprints': [
              {
@@ -498,7 +498,7 @@
          },
          {
            'name': 'Lynnett Roughley',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/240x189.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -599,7 +599,7 @@
        'students': [
          {
            'name': 'Collette Tubby',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/203x162.png/5fa2dd/ffffff',
            'active': true,
            'sprints': [
              {
@@ -627,7 +627,7 @@
          },
          {
            'name': 'Dacey Bullers',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/214x148.png/5fa2dd/ffffff',
            'active': true,
            'sprints': [
              {
@@ -655,7 +655,7 @@
          },
          {
            'name': 'Leta Cuel',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/214x104.png/ff4444/ffffff',
            'active': true,
            'sprints': [
              {
@@ -683,7 +683,7 @@
          },
          {
            'name': 'Anita Lucock',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/180x236.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -711,7 +711,7 @@
          },
          {
            'name': 'Henrieta Osman',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/146x182.png/dddddd/000000',
            'active': true,
            'sprints': [
              {
@@ -739,7 +739,7 @@
          },
          {
            'name': 'Ariella Itzhaki',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/151x102.png/5fa2dd/ffffff',
            'active': false,
            'sprints': [
              {
@@ -767,7 +767,7 @@
          },
          {
            'name': 'Wilie Dunkinson',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/244x133.png/ff4444/ffffff',
            'active': true,
            'sprints': [
              {
@@ -823,7 +823,7 @@
          },
          {
            'name': 'Arlina Flacke',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/162x147.png/ff4444/ffffff',
            'active': true,
            'sprints': [
              {
@@ -851,7 +851,7 @@
          },
          {
            'name': 'Wilow Linzey',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/135x107.png/5fa2dd/ffffff',
            'active': false,
            'sprints': [
              {
@@ -879,7 +879,7 @@
          },
          {
            'name': 'Modesta Donnison',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/247x228.png/5fa2dd/ffffff',
            'active': true,
            'sprints': [
              {
@@ -907,7 +907,7 @@
          },
          {
            'name': 'Stepha Cotesford',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/109x210.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -935,7 +935,7 @@
          },
          {
            'name': 'Adele Eyre',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/171x191.png/dddddd/000000',
            'active': false,
            'sprints': [
              {
@@ -963,7 +963,7 @@
          },
          {
            'name': 'Kelcey Taig',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/214x193.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -991,7 +991,7 @@
          },
          {
            'name': 'Lynelle Capin',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/104x164.png/5fa2dd/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1072,7 +1072,7 @@
        'students': [
          {
            'name': 'Jada Curgenuer',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/133x195.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1100,7 +1100,7 @@
          },
          {
            'name': 'Arleyne Olding',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/133x232.png/ff4444/ffffff',
            'active': true,
            'sprints': [
              {
@@ -1128,7 +1128,7 @@
          },
          {
            'name': 'Wendy Jillions',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/120x167.png/ff4444/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1156,7 +1156,7 @@
          },
          {
            'name': 'Anabella Saurat',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/236x238.png/dddddd/000000',
            'active': false,
            'sprints': [
              {
@@ -1184,7 +1184,7 @@
          },
          {
            'name': 'Concordia Rook',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/172x117.png/ff4444/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1212,7 +1212,7 @@
          },
          {
            'name': 'Adelice Lantiffe',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/125x155.png/cc0000/ffffff',
            'active': true,
            'sprints': [
              {
@@ -1240,7 +1240,7 @@
          },
          {
            'name': 'Jacintha Richen',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/166x195.png/cc0000/ffffff',
            'active': true,
            'sprints': [
              {
@@ -1268,7 +1268,7 @@
          },
          {
            'name': 'Layne Airds',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/106x124.png/dddddd/000000',
            'active': false,
            'sprints': [
              {
@@ -1296,7 +1296,7 @@
          },
          {
            'name': 'Cammi Sowray',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/110x192.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1324,7 +1324,7 @@
          },
          {
            'name': 'Nanice Ackeroyd',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/213x108.png/cc0000/ffffff',
            'active': true,
            'sprints': [
              {
@@ -1352,7 +1352,7 @@
          },
          {
            'name': 'Darla Zorn',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/233x192.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1380,7 +1380,7 @@
          },
          {
            'name': 'Darya De la Perrelle',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/196x198.png/5fa2dd/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1408,7 +1408,7 @@
          },
          {
            'name': 'Michaeline Shuker',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/133x220.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1436,7 +1436,7 @@
          },
          {
            'name': 'Jacinthe Dennitts',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/137x132.png/ff4444/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1464,7 +1464,7 @@
          },
          {
            'name': 'Lynde Buer',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/166x203.png/ff4444/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1492,7 +1492,7 @@
          },
          {
            'name': 'Annnora Beste',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/187x107.png/ff4444/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1520,7 +1520,7 @@
          },
          {
            'name': 'Tricia Meyer',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/167x153.png/5fa2dd/ffffff',
            'active': true,
            'sprints': [
              {
@@ -1548,7 +1548,7 @@
          },
          {
            'name': 'Katrine Dinneen',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/128x137.png/5fa2dd/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1576,7 +1576,7 @@
          },
          {
            'name': 'Helena Linneman',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/148x137.png/cc0000/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1604,7 +1604,7 @@
          },
          {
            'name': 'Ellynn Shilleto',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/135x173.png/5fa2dd/ffffff',
            'active': true,
            'sprints': [
              {
@@ -1632,7 +1632,7 @@
          },
          {
            'name': 'Sherri Wotherspoon',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/157x187.png/5fa2dd/ffffff',
            'active': false,
            'sprints': [
              {
@@ -1660,7 +1660,7 @@
          },
          {
            'name': 'Josie Southorn',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/118x201.png/5fa2dd/ffffff',
            'active': true,
            'sprints': [
              {
@@ -1688,7 +1688,7 @@
          },
          {
            'name': 'Carlynne Yo',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/240x147.png/dddddd/000000',
            'active': true,
            'sprints': [
              {
@@ -1716,7 +1716,7 @@
          },
          {
            'name': 'Estrellita Llewhellin',
-           'photo': 'http://dummyimage.com/250x250.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/167x140.png/dddddd/000000',
            'active': true,
            'sprints': [
              {
@@ -5137,87 +5137,474 @@
 
 var selectOption = function(event) {
   var option = event.target.selectedIndex;
-  var sede = event.target[option].dataset.sede;
-  var generacion = event.target[option].dataset.generacion;
-  if (data['AQP']['2016-2']['students']){
-    return aqp1();
-  } else if (data['AQP']['2017-1']['students']) {
-    return aqp2();
-  } else if (data['CDMX']['2017-2']['students']) {
-    return cdmx1();
-  } else if (data['CDMX']['2017-1']['students']) {
-    return cdmx2();
-  } else if (data['LIM']['2016-2']['students']) {
-    return lim1();
-  } else if (data['LIM']['2017-1']['students']) {
-    return lim2();
-  } else if (data['LIM']['2017-2']['students']) {
-    return lim3();
-  } else if (data['SCL']['2016-2']['students']) {
-    return scl1();
-  } else if (data['SCL']['2017-1']['students']) {
-    return scl2();
-  } else if (data['SCL']['2017-2']['students']) {
-    return scl3();
-  }
+  // var sede = event.target[option].dataset.sede;
+  // var generacion = event.target[option].dataset.generacion;
+  obtenerDatos1();
+  // sprintNumber();
 
 }
 
-function aqp1(){
+var obtenerDatos1 = function() {
   var students = data['AQP']['2016-2']['students'];
+  document.getElementById('contenedor').innerHTML = "";
   for(var i = 0; i < students.length; i++){
     var studentName = students[i]['name'];
     var img = students[i]['photo'];
+    var act = students[i]['active'];
 
-    console.log(students);
-    console.log(studentName);
-    console.log(img);
+    var spt1 = students[i]['sprints'][0]['number'];
+    var spt2 = students[i]['sprints'][1]['number'];
+    var spt3 = students[i]['sprints'][2]['number'];
+    var spt4 = students[i]['sprints'][3]['number'];
+
+    var score1 = students[i]['sprints'][0]['score']['tech'];
+    var score2 = students[i]['sprints'][1]['score']['tech'];
+    var score3 = students[i]['sprints'][2]['score']['tech'];
+    var score4 = students[i]['sprints'][3]['score']['tech'];
+
+    var score5 = document.createElement('p');
+    var score6 = document.createElement('p');
+    var score7 = document.createElement('p');
+    var score8 = document.createElement('p');
+    var scoreD = document.createElement('div');
+
+    scoreD.classList.add('designScore');
+    score5.innerText = score1;
+    score6.innerText = score2;
+    score7.innerText = score3;
+    score8.innerText = score4;
+
+    scoreD.appendChild(score5);
+    scoreD.appendChild(score6);
+    scoreD.appendChild(score7);
+    scoreD.appendChild(score8);
+
+    var spt5 = document.createElement('p');
+    var spt6 = document.createElement('p');
+    var spt7 = document.createElement('p');
+    var spt8 = document.createElement('p');
+    var sptD = document.createElement('div');
+
+    sptD.classList.add('designSprintN');
+    spt5.innerText = spt1;
+    spt6.innerText = spt2;
+    spt7.innerText = spt3;
+    spt8.innerText = spt4;
+
+    sptD.appendChild(spt5);
+    sptD.appendChild(spt6);
+    sptD.appendChild(spt7);
+    sptD.appendChild(spt8);
 
     var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
     var parragraph = document.createElement('p');
     var image = document.createElement('img');
     var boxStudent = document.createElement('div');
 
     image.classList.add('foto');
     boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
     parragraph.innerText = studentName;
+    pAct.innerText = act;
     image.src = img;
 
     boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
     boxStudent.appendChild(image);
     box.appendChild(boxStudent);
-
-
+    boxStudent.appendChild(sptD);
+    boxStudent.appendChild(scoreD);
   }
+ }
 
+// function sprintNumber(){
+  // var students = data['AQP']['2016-2']['students'];
+  // for(var j = 0; j < students.length; j++){
+    // var spt = students[i]['sprints'][j]['number'];
+
+    // var box = document.getElementById('sprintBox');
+    // var boxSprint = document.createElement('div');
+    // var pS = document.createElement('p');
+
+    // boxSprint.classList.add('designBoxS');
+    // ps.classList.add('pD');
+    // ps.innerText = spt;
+
+    // boxSprint.appendChild(pS);
+    // box.appendChild(boxSprint);
+ // }
+// }
+
+
+// var spt1 = students[i]['sprints'][0]['number'];
+// var spt2 = students[i]['sprints'][1]['number'];
+// var spt3 = students[i]['sprints'][2]['number'];
+// var spt4 = students[i]['sprints'][3]['number'];
+
+// var score1 = students[i]['sprints'][0]['score']['tech'];
+// var score2 = students[i]['sprints'][1]['score']['tech'];
+// var score3 = students[i]['sprints'][2]['score']['tech'];
+// var score4 = students[i]['sprints'][3]['score']['tech'];
+
+// var hse1 = students[i]['sprints'][0]['score']['hse'];
+// var hse2 = students[i]['sprints'][1]['score']['hse'];
+// var hse3 = students[i]['sprints'][2]['score']['hse'];
+// var hse4 = students[i]['sprints'][3]['score']['hse'];
+
+var obtenerDatos2 = function(){
+ var students = data['AQP']['2017-1']['students'];
+ document.getElementById('contenedor').innerHTML = "";
+ for(var i = 0; i < students.length; i++){
+   var studentName = students[i]['name'];
+   var img = students[i]['photo'];
+   var act = students[i]['active'];
+
+
+  var box = document.getElementById('contenedor');
+  var pAct = document.createElement('p');
+  var parragraph = document.createElement('p');
+  var image = document.createElement('img');
+  var boxStudent = document.createElement('div');
+
+  image.classList.add('foto');
+  boxStudent.classList.add('alumna');
+  parragraph.classList.add('nombre');
+  pAct.classList.add('actD');
+  parragraph.innerText = studentName;
+  pAct.innerText = act;
+  image.src = img;
+
+  boxStudent.appendChild(parragraph);
+  boxStudent.appendChild(pAct);
+  boxStudent.appendChild(image);
+  box.appendChild(boxStudent);
+ }
 }
-aqp1();
 
-//box.innerHTML = "";
+var obtenerDatos3 = function() {
+  var students = data['CDMX']['2017-1']['students'];
+  document.getElementById('contenedor').innerHTML = "";
+  for(var i = 0; i < students.length; i++){
+    var studentName = students[i]['name'];
+    var img = students[i]['photo'];
+    var act = students[i]['active'];
 
-//function aqp2(){
-  //var students = data['AQP']['2017-1']['students'];
-  //document.getElementById('contenedor').innerHTML= ""
-  //for(var i = 0; i < 4; i++){
-  //  var studentName = students[i].name;
-  //  var img = students[i].photo;
-  //  showInfo(name, photo);
-  //}
+    var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
+    var parragraph = document.createElement('p');
+    var image = document.createElement('img');
+    var boxStudent = document.createElement('div');
+
+    image.classList.add('foto');
+    boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
+    parragraph.innerText = studentName;
+    pAct.innerText = act;
+    image.src = img;
+
+    boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
+    boxStudent.appendChild(image);
+    box.appendChild(boxStudent);
+ }
+}
+
+var obtenerDatos4 = function() {
+  var students = data['CDMX']['2017-2']['students'];
+  document.getElementById('contenedor').innerHTML = "";
+  for(var i = 0; i < students.length; i++){
+    var studentName = students[i]['name'];
+    var img = students[i]['photo'];
+    var act = students[i]['active'];
+
+    var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
+    var parragraph = document.createElement('p');
+    var image = document.createElement('img');
+    var boxStudent = document.createElement('div');
+
+    image.classList.add('foto');
+    boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
+    parragraph.innerText = studentName;
+    pAct.innerText = act;
+    image.src = img;
+
+    boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
+    boxStudent.appendChild(image);
+    box.appendChild(boxStudent);
+ }
+}
+
+var obtenerDatos5 = function() {
+  var students = data['LIM']['2016-2']['students'];
+  document.getElementById('contenedor').innerHTML = "";
+  for(var i = 0; i < students.length; i++){
+    var studentName = students[i]['name'];
+    var img = students[i]['photo'];
+    var act = students[i]['active'];
+
+    var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
+    var parragraph = document.createElement('p');
+    var image = document.createElement('img');
+    var boxStudent = document.createElement('div');
+
+    image.classList.add('foto');
+    boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
+    parragraph.innerText = studentName;
+    pAct.innerText = act;
+    image.src = img;
+
+    boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
+    boxStudent.appendChild(image);
+    box.appendChild(boxStudent);
+ }
+}
+
+var obtenerDatos6 = function() {
+  var students = data['LIM']['2017-1']['students'];
+  document.getElementById('contenedor').innerHTML = "";
+  for(var i = 0; i < students.length; i++){
+    var studentName = students[i]['name'];
+    var img = students[i]['photo'];
+    var act = students[i]['active'];
+
+    var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
+    var parragraph = document.createElement('p');
+    var image = document.createElement('img');
+    var boxStudent = document.createElement('div');
+
+    image.classList.add('foto');
+    boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
+    parragraph.innerText = studentName;
+    pAct.innerText = act;
+    image.src = img;
+
+    boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
+    boxStudent.appendChild(image);
+    box.appendChild(boxStudent);
+ }
+}
+
+var obtenerDatos7 = function() {
+  var students = data['LIM']['2017-2']['students'];
+  document.getElementById('contenedor').innerHTML = "";
+  for(var i = 0; i < students.length; i++){
+    var studentName = students[i]['name'];
+    var img = students[i]['photo'];
+    var act = students[i]['active'];
+
+    var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
+    var parragraph = document.createElement('p');
+    var image = document.createElement('img');
+    var boxStudent = document.createElement('div');
+
+    image.classList.add('foto');
+    boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
+    parragraph.innerText = studentName;
+    pAct.innerText = act;
+    image.src = img;
+
+    boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
+    boxStudent.appendChild(image);
+    box.appendChild(boxStudent);
+ }
+}
+
+var obtenerDatos8 = function() {
+  var students = data['SCL']['2016-2']['students'];
+  document.getElementById('contenedor').innerHTML = "";
+  for(var i = 0; i < students.length; i++){
+    var studentName = students[i]['name'];
+    var img = students[i]['photo'];
+    var act = students[i]['active'];
+
+    var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
+    var parragraph = document.createElement('p');
+    var image = document.createElement('img');
+    var boxStudent = document.createElement('div');
+
+    image.classList.add('foto');
+    boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
+    parragraph.innerText = studentName;
+    pAct.innerText = act;
+    image.src = img;
+
+    boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
+    boxStudent.appendChild(image);
+    box.appendChild(boxStudent);
+ }
+}
+
+var obtenerDatos9 = function() {
+  var students = data['SCL']['2017-1']['students'];
+  document.getElementById('contenedor').innerHTML = "";
+  for(var i = 0; i < students.length; i++){
+    var studentName = students[i]['name'];
+    var img = students[i]['photo'];
+    var act = students[i]['active'];
+
+    var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
+    var parragraph = document.createElement('p');
+    var image = document.createElement('img');
+    var boxStudent = document.createElement('div');
+
+    image.classList.add('foto');
+    boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
+    parragraph.innerText = studentName;
+    pAct.innerText = act;
+    image.src = img;
+
+    boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
+    boxStudent.appendChild(image);
+    box.appendChild(boxStudent);
+ }
+}
+
+var obtenerDatos10 = function() {
+  var students = data['SCL']['2017-2']['students'];
+  document.getElementById('contenedor').innerHTML = "";
+  for(var i = 0; i < students.length; i++){
+    var studentName = students[i]['name'];
+    var img = students[i]['photo'];
+    var act = students[i]['active'];
+
+    var box = document.getElementById('contenedor');
+    var pAct = document.createElement('p');
+    var parragraph = document.createElement('p');
+    var image = document.createElement('img');
+    var boxStudent = document.createElement('div');
+
+    image.classList.add('foto');
+    boxStudent.classList.add('alumna');
+    parragraph.classList.add('nombre');
+    pAct.classList.add('actD');
+    parragraph.innerText = studentName;
+    pAct.innerText = act;
+    image.src = img;
+
+    boxStudent.appendChild(parragraph);
+    boxStudent.appendChild(pAct);
+    boxStudent.appendChild(image);
+    box.appendChild(boxStudent);
+ }
+}
+
+    // var spt1 = students[i]['sprints'][0]['number'];
+    // var spt2 = students[i]['sprints'][1]['number'];
+    // var spt3 = students[i]['sprints'][2]['number'];
+    // var spt4 = students[i]['sprints'][3]['number'];
+
+    // var score1 = students[i]['sprints'][0]['score']['tech'];
+    // var score2 = students[i]['sprints'][1]['score']['tech'];
+    // var score3 = students[i]['sprints'][2]['score']['tech'];
+    // var score4 = students[i]['sprints'][3]['score']['tech'];
+
+    // var hse1 = students[i]['sprints'][0]['score']['hse'];
+    // var hse2 = students[i]['sprints'][1]['score']['hse'];
+    // var hse3 = students[i]['sprints'][2]['score']['hse'];
+    // var hse4 = students[i]['sprints'][3]['score']['hse'];
+
+
+
+  // for(var j = 0; j < spt1.length; j++){
+    // students[i]['sprints'][j]['number'];
+    // var scoreStudent = spt[j]['score'];
+    // console.log(students);
+    // console.log(spt1);
+    // console.log(spt2);
+    // console.log(spt3);
+    // console.log(spt4);
+    // console.log(score1);
+    // console.log(score2);
+    // console.log(score3);
+    // console.log(score4);
+    // console.log(hse1);
+    // console.log(hse2);
+    // console.log(hse3);
+    // console.log(hse4);
+
+
+
+// }
+
+
+//var tablero = function() {
+    //var box = document.getElementById('contenedor');
+    //var pAct = document.createElement('p');
+    //var parragraph = document.createElement('p');
+    //var image = document.createElement('img');
+    //var boxStudent = document.createElement('div');
+//image.classList.add('foto');
+    //boxStudent.classList.add('alumna');
+    //parragraph.classList.add('nombre');
+    //pAct.classList.add('actD');
+    //parragraph.innerText = studentName;
+    //pAct.innerText = act;
+    //image.src = img;
+
+    //boxStudent.appendChild(parragraph);
+    //boxStudent.appendChild(pAct);
+    //boxStudent.appendChild(image);
+    //boxStudent.appendChild(parragraphSprint1);
+    //box.appendChild(boxStudent);
 //}
 
-//var showInfo = function(){
-   //var box = document.getElementById('contenedor');
-  // var parragraph = document.createElement('p');
-  // var image = document.createElement('img');
-  // var boxStudent = document.createElement('div');
 
-  // image.classList.add('foto');
-  // boxStudent.classList.add('alumna');
-  // parragraph.innerText = name;
 
-  // boxStudent.appendChild(parragraph);
-  // box.appendChild(boxStudent);
- //}
+
+
+
+//function info() {
+//  var infoGnral = data['AQP']['2016-2']['ratings'];
+//  for (var i = 0; i < infoGnral.length; i++) {
+//    var sprint = infoGnral[i]['sprint'];
+//    var calificacion = infoGnral[i]['student']['no-cumple'];
+//    var calificacion2 = infoGnral[i]['student']['cumple'];
+//    var supera = infoGnral[i]['student']['supera'];
+//    var profe = infoGnral[i]['teacher'];
+
+//    var boxGnral = document.getElementById('general');
+//    var p1 = document.createElement('p');
+//    var p2 = document.createElement('p');
+//    var p3 = document.createElement('p');
+//    var p4 = document.createElement('p');
+  //  var p5 = document.createElement('p');
+  //  var p6 = document.createElement('p');
+  //  var box2 = document.createElement('div');
+
+  //  boxGnral.classList.add('designGnral');
+  //  p1.innerText = sprint;
+  //  p2.innerText = profe;
+  //  p3.innerText = jedi;
+
+  //}
+  //}
 
 
 

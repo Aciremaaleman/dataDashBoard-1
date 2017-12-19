@@ -17,9 +17,14 @@ a{
 }
 
 #contenedor{
-	width: 1000px;
+	width: 950px;
 	float: right;
-	margin: 15px 5px;
+	margin: 50px 5px;
+	background-color: #ededed;
+}
+
+#general{
+	background-color: blue;
 }
 
 #col-lef{
@@ -27,12 +32,39 @@ a{
 	float: left;
 	width: 250px;
 	height: 200px;
-	margin-top: -4560px;
 	padding-left: 30px;
 	padding-top: 30px;}
 
-.alumna{
+.alumna{ 
+	width: 450px;
+	height: 330px;
   background-color: #ededed;}
+
+ .nombre{
+ 	font-family: sans-serif;
+ 	font-size: 25px;
+ 	margin-left: 270px;
+ 	padding-top: 20px; }
+
+ .foto{
+ 	clear: both;
+ 	float: left;
+ 	margin-top: -110px;
+ 	width: 250px;
+ 	height: 250px;
+ 	background-color: #3d3d3d; }
+
+ .actD{
+ 	clear: both;
+ 	color: white;
+ 	float: right;
+ 	background-color: #3d3d3d;
+ 	margin-right: 125px;
+ 	margin-top: -3px;
+ 	padding: 5px;
+ 	font-family: sans-serif;
+ 	text-transform: uppercase;
+ }
 
 .title{
 	font-family: sans-serif;
@@ -46,5 +78,32 @@ a{
 	padding: 5% 40%;}
 
 .opcions-exp{
-	font-weight: bold;
+	font-weight: bold;}
+
+.designSprintN{
+	clear: both;
+	float: right;
+	display: inline-block;	
+	margin-right: 160px;
+	margin-top: -155px;
+	background-color:;
+	padding: 0px 10px;
+	padding-left: 2px;
+	padding-right: 5px;
+
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+.designScore{
+	clear: both;
+	color: white;
+	background-color: #3d3d3d;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: -15px;
+	padding-right:5px;
+
+	font-family: sans-serif;
+	font-size: 18px
 }

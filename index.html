@@ -9,27 +9,42 @@
     <img class="logo" src="assets/images/logo.png" alt="Laboratoria">
 
     <main>
-      <select id="countrys" onchange ="selectOption" class="desing">
+      <select id="countrys" onchange ="selectOption(event)" onchange="selectOption1(event)"  class="desing">
           <option > Selecciona la Sede y Generación</option>
-          <option value="aqp1" data-sede="AQP"  data-generacion ="2016-2">Arqueripa Generación 2016-2</option>
-          <option value="aqp2" data-sede="AQP"  data-generacion ="2017-1">Arqueripa Generación 2017-1</option>
-          <option value="cdmx1" data-sede="CDMX" data-generacion ="2017-1">Ciudad de México Generación 2017-1</option>
-          <option value="cdmx2" data-sede="CDMX" data-generacion ="2017-2">Ciudad de México Generación 2017-2</option>
-          <option value="lim1" data-sede="LIM" data-generacion ="2016-2">Lima Generación 2016-2</option>
-          <option value="lim2" data-sede="LIM" data-generacion ="2017-1">Lima Generación 2017-1</option>
-          <option value="lim3" data-sede="LIM" data-generacion ="2017-2">Lima Generación 2017-2</option>
-          <option value="scl1" data-sede="SCL" data-generacion ="2016-2">Santiago de Chile Generación 2016-2</option>
-          <option value="scl2" data-sede="SCL" data-generacion ="2017-1">Santiago de Chile Generación 2017-1</option>
-          <option value="scl3" data-sede="SCL" data-generacion ="2017-2">Santiago de Chile Generación 2017-2</option>
+          <option  data-sede="AQP"  data-generacion ="2016-2">Arequipa Generación 2016-2</option>
+          <option  data-sede="AQP"  data-generacion ="2017-1">Arequipa Generación 2017-1</option>
+          <option  data-sede="CDMX" data-generacion ="2017-1">Ciudad de México Generación 2017-1</option>
+          <option  data-sede="CDMX" data-generacion ="2017-2">Ciudad de México Generación 2017-2</option>
+          <option  data-sede="LIM" data-generacion ="2016-2">Lima Generación 2016-2</option>
+          <option  data-sede="LIM" data-generacion ="2017-1">Lima Generación 2017-1</option>
+          <option  data-sede="LIM" data-generacion ="2017-2">Lima Generación 2017-2</option>
+          <option  data-sede="SCL" data-generacion ="2016-2">Santiago de Chile Generación 2016-2</option>
+          <option  data-sede="SCL" data-generacion ="2017-1">Santiago de Chile Generación 2017-1</option>
+          <option  data-sede="SCL" data-generacion ="2017-2">Santiago de Chile Generación 2017-2</option>
       </select>
 
-      <section id="contenedor"></section>
+
+
+      <section id="contenedor">
+        <div id="sprintBox" class="sprintBox"></div>
+      </section>
 
       <section id="col-lef">
         <h3 class="title">Especialidad</h3>
         <h3><a class="opcions-exp" href="">Java Script</a></h3>
         <h3><a class="opcions-exp" href="">UX Desing</a></h3>
         <h3><a class="opcions-exp" href="">Front end Designer</a></h3>
+      </section>
+
+      <section id="general">
+        <p></p>
+        <!--<div id="infoGeneral" class="general">
+          <p> Numero de Alumnas: </p>
+          <p> Numero de Deserciones: </p>
+          <p> Porcentaje de Jedi: </p>
+          <p> Porcentaje de Profesores: </p>
+
+        </div>-->
       </section>
 
     </main>
