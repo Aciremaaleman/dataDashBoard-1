@@ -8,7 +8,7 @@
        'students': [
          {
            'name': 'Donna Sloper',
-           'photo': 'http://dummyimage.com/162x148.png/3d3d3d/ffffff',
+           'photo': 'http://dummyimage.com/162x148.png/ff4444/ffffff',
            'active': true,
            'sprints': [
              {
@@ -5157,28 +5157,7 @@ var obtenerDatos1 = function() {
     var spt3 = students[i]['sprints'][2]['number'];
     var spt4 = students[i]['sprints'][3]['number'];
 
-    var score1 = students[i]['sprints'][0]['score']['tech'];
-    var score2 = students[i]['sprints'][1]['score']['tech'];
-    var score3 = students[i]['sprints'][2]['score']['tech'];
-    var score4 = students[i]['sprints'][3]['score']['tech'];
-
-    var score5 = document.createElement('p');
-    var score6 = document.createElement('p');
-    var score7 = document.createElement('p');
-    var score8 = document.createElement('p');
-    var scoreD = document.createElement('div');
-
-    scoreD.classList.add('designScore');
-    score5.innerText = score1;
-    score6.innerText = score2;
-    score7.innerText = score3;
-    score8.innerText = score4;
-
-    scoreD.appendChild(score5);
-    scoreD.appendChild(score6);
-    scoreD.appendChild(score7);
-    scoreD.appendChild(score8);
-
+    var title1 = document.createElement('p');
     var spt5 = document.createElement('p');
     var spt6 = document.createElement('p');
     var spt7 = document.createElement('p');
@@ -5186,23 +5165,99 @@ var obtenerDatos1 = function() {
     var sptD = document.createElement('div');
 
     sptD.classList.add('designSprintN');
+    title1.textContent = 'Sprint';
+    title1.classList.add('titleSprint');
     spt5.innerText = spt1;
     spt6.innerText = spt2;
     spt7.innerText = spt3;
     spt8.innerText = spt4;
 
+    // spt5.textContent = "Sprint";
+    // spt6.textContent = "Sprint";
+    // spt7.textContent = "Sprint";
+    // spt8.textContent = "Sprint";
+
+    sptD.appendChild(title1);
     sptD.appendChild(spt5);
     sptD.appendChild(spt6);
     sptD.appendChild(spt7);
     sptD.appendChild(spt8);
+
+
+    var score1 = students[i]['sprints'][0]['score']['tech'];
+    var score2 = students[i]['sprints'][1]['score']['tech'];
+    var score3 = students[i]['sprints'][2]['score']['tech'];
+    var score4 = students[i]['sprints'][3]['score']['tech'];
+
+    var title2 = document.createElement('p');
+    var score5 = document.createElement('p');
+    var score6 = document.createElement('p');
+    var score7 = document.createElement('p');
+    var score8 = document.createElement('p');
+    var scoreD = document.createElement('div');
+
+    title2.classList.add('titleTech');
+    title2.textContent = 'Score Tech';
+    scoreD.classList.add('designScore');
+    score5.innerText = score1;
+    score6.innerText = score2;
+    score7.innerText = score3;
+    score8.innerText = score4;
+
+    // score5.textContent = "Tech";
+    // score6.textContent = "Tech";
+    // score7.textContent = "Tech";
+    // score8.textContent = "Tech";
+
+    scoreD.appendChild(title2);
+    scoreD.appendChild(score5);
+    scoreD.appendChild(score6);
+    scoreD.appendChild(score7);
+    scoreD.appendChild(score8);
+    
+
+    var hse1 = students[i]['sprints'][0]['score']['hse'];
+    var hse2 = students[i]['sprints'][1]['score']['hse'];
+    var hse3 = students[i]['sprints'][2]['score']['hse'];
+    var hse4 = students[i]['sprints'][3]['score']['hse'];
+
+    var title3 = document.createElement('p');
+    var  hse5 = document.createElement('p');
+    var  hse6 = document.createElement('p');
+    var  hse7 = document.createElement('p');
+    var  hse8 = document.createElement('p');
+    var  hseD = document.createElement('div');
+
+
+    hseD.classList.add('designScore');
+    title3.textContent = 'Score HSE';
+    title3.classList.add('titleHse');
+    hse5.innerText = score1;
+    hse6.innerText = score2;
+    hse7.innerText = score3;
+    hse8.innerText = score4;
+
+    // hse5.textContent = "HSE";
+    // hse6.textContent = "HSE";
+    // hse7.textContent = "HSE";
+    // hse8.textContent = "HSE";
+
+    hseD.appendChild(title3);
+    hseD.appendChild(hse5);
+    hseD.appendChild(hse6);
+    hseD.appendChild(hse7);
+    hseD.appendChild(hse8);
+    
 
     var box = document.getElementById('contenedor');
     var pAct = document.createElement('p');
     var parragraph = document.createElement('p');
     var image = document.createElement('img');
     var boxStudent = document.createElement('div');
+    var boxgneral = document.createElement('div');
 
     image.classList.add('foto');
+    boxgneral.classList.add('bxGnral')
     boxStudent.classList.add('alumna');
     parragraph.classList.add('nombre');
     pAct.classList.add('actD');
@@ -5214,8 +5269,11 @@ var obtenerDatos1 = function() {
     boxStudent.appendChild(pAct);
     boxStudent.appendChild(image);
     box.appendChild(boxStudent);
-    boxStudent.appendChild(sptD);
-    boxStudent.appendChild(scoreD);
+    boxgneral.appendChild(sptD)
+    boxgneral.appendChild(scoreD);
+    boxgneral.appendChild(hseD);
+    boxStudent.appendChild(boxgneral);
+
   }
  }
 
@@ -5236,22 +5294,6 @@ var obtenerDatos1 = function() {
     // box.appendChild(boxSprint);
  // }
 // }
-
-
-// var spt1 = students[i]['sprints'][0]['number'];
-// var spt2 = students[i]['sprints'][1]['number'];
-// var spt3 = students[i]['sprints'][2]['number'];
-// var spt4 = students[i]['sprints'][3]['number'];
-
-// var score1 = students[i]['sprints'][0]['score']['tech'];
-// var score2 = students[i]['sprints'][1]['score']['tech'];
-// var score3 = students[i]['sprints'][2]['score']['tech'];
-// var score4 = students[i]['sprints'][3]['score']['tech'];
-
-// var hse1 = students[i]['sprints'][0]['score']['hse'];
-// var hse2 = students[i]['sprints'][1]['score']['hse'];
-// var hse3 = students[i]['sprints'][2]['score']['hse'];
-// var hse4 = students[i]['sprints'][3]['score']['hse'];
 
 var obtenerDatos2 = function(){
  var students = data['AQP']['2017-1']['students'];
@@ -5515,45 +5557,6 @@ var obtenerDatos10 = function() {
  }
 }
 
-    // var spt1 = students[i]['sprints'][0]['number'];
-    // var spt2 = students[i]['sprints'][1]['number'];
-    // var spt3 = students[i]['sprints'][2]['number'];
-    // var spt4 = students[i]['sprints'][3]['number'];
-
-    // var score1 = students[i]['sprints'][0]['score']['tech'];
-    // var score2 = students[i]['sprints'][1]['score']['tech'];
-    // var score3 = students[i]['sprints'][2]['score']['tech'];
-    // var score4 = students[i]['sprints'][3]['score']['tech'];
-
-    // var hse1 = students[i]['sprints'][0]['score']['hse'];
-    // var hse2 = students[i]['sprints'][1]['score']['hse'];
-    // var hse3 = students[i]['sprints'][2]['score']['hse'];
-    // var hse4 = students[i]['sprints'][3]['score']['hse'];
-
-
-
-  // for(var j = 0; j < spt1.length; j++){
-    // students[i]['sprints'][j]['number'];
-    // var scoreStudent = spt[j]['score'];
-    // console.log(students);
-    // console.log(spt1);
-    // console.log(spt2);
-    // console.log(spt3);
-    // console.log(spt4);
-    // console.log(score1);
-    // console.log(score2);
-    // console.log(score3);
-    // console.log(score4);
-    // console.log(hse1);
-    // console.log(hse2);
-    // console.log(hse3);
-    // console.log(hse4);
-
-
-
-// }
-
-
 //var tablero = function() {
     //var box = document.getElementById('contenedor');
     //var pAct = document.createElement('p');
@@ -5575,50 +5578,39 @@ var obtenerDatos10 = function() {
     //box.appendChild(boxStudent);
 //}
 
+function info() {
+ var infoGnral = data['AQP']['2016-2']['ratings'];
+  for (var i = 0; i < infoGnral.length; i++) {
+    var sprint = infoGnral[i]['sprint'];
+    var nps = infoGnral[i]['nps'];
+   // var promoters = infoGnral[i]['nps']['promoters'];
+   // var passive = infoGnral[i]['nps']['passive'];
+   // var promoters = infoGnral[i]['nps']['detractors'];
+   // var calificacion = infoGnral[i]['student']['no-cumple'];
+   // var calificacion2 = infoGnral[i]['student']['cumple'];
+   // var supera = infoGnral[i]['student']['supera'];
+   // var profe = infoGnral[i]['teacher'];
+   // var jedi = infoGnral[i]['jedi'];
 
+    console.log(sprint);
+    console.log(nps);
+   // console.log(promoters);
+   // console.log(passive);
+   // console.log(promoters);
+   // console.log(calificacion);
+   // console.log(calificacion2);
+   // console.log(supera);
+   // console.log(profe);
+   // console.log(jedi);
 
+   var boxGnral = document.getElementById('general');
 
-
-
-//function info() {
-//  var infoGnral = data['AQP']['2016-2']['ratings'];
-//  for (var i = 0; i < infoGnral.length; i++) {
-//    var sprint = infoGnral[i]['sprint'];
-//    var calificacion = infoGnral[i]['student']['no-cumple'];
-//    var calificacion2 = infoGnral[i]['student']['cumple'];
-//    var supera = infoGnral[i]['student']['supera'];
-//    var profe = infoGnral[i]['teacher'];
-
-//    var boxGnral = document.getElementById('general');
-//    var p1 = document.createElement('p');
-//    var p2 = document.createElement('p');
-//    var p3 = document.createElement('p');
-//    var p4 = document.createElement('p');
-  //  var p5 = document.createElement('p');
-  //  var p6 = document.createElement('p');
-  //  var box2 = document.createElement('div');
-
-  //  boxGnral.classList.add('designGnral');
-  //  p1.innerText = sprint;
-  //  p2.innerText = profe;
-  //  p3.innerText = jedi;
-
-  //}
-  //}
-
-
-
-
-//console.log(data['CDMX']['2017-1']['students']);
-//console.log(data['CDMX']['2017-2']['students']);
-
-//console.log(data['AQP']['2016-2']['students']);
-//console.log(data['AQP']['2017-1']['students']);
-
-//console.log(data['LIM']['2016-2']['students']);
-//console.log(data['LIM']['2017-1']['students']);
-//console.log(data['LIM']['2017-2']['students']);
-
-//console.log(data['SCL']['2016-2']['students']);
-//console.log(data['SCL']['2017-1']['students']);
-//console.log(data['SCL']['2017-2']['students']);
+   //var p1 = document.createElement('p');
+   //var p2 = document.createElement('p');
+   //var p3 = document.createElement('p');
+   //var p4 = document.createElement('p');
+   //var p5 = document.createElement('p');
+   //var p6 = document.createElement('p');
+   //var box2 = document.createElement('div');
+ }
+}

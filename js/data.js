@@ -4,7 +4,7 @@ var data = {
       'students': [
         {
           'name': 'Donna Sloper',
-          'photo': "",
+          'photo': 'http://dummyimage.com/162x148.png/ff4444/ffffff',
           'active': true,
           'sprints': [
             {
