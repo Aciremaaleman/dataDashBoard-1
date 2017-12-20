@@ -142,13 +142,14 @@ a{
   display: none;
 }
 
-.DesignButton{
+.DesignButtonInx{
 	clear: both;
 	float: left;
 	display: inline;
 	width: 100px;
  	height: 42px;
- 	margin-left: 150px;
+ 	margin-left: 270px;
+ 	margin-top: 10px;
 	padding: 15px 32px;
  	background: rgba(77,77,77,0.3);
  	color: white;
@@ -160,10 +161,53 @@ a{
     cursor: pointer;
     transition: all 2s ease;
 }
+.DesignButton{
+	clear: both;
+	float: left;
+	display: inline;
+	width: 100px;
+ 	height: 42px;
+ 	margin-left: 150px;
+ 	margin-top: 10px;
+	padding: 15px 32px;
+ 	background: rgba(77,77,77,0.3);
+ 	color: white;
+ 	border: none;
+ 	border-radius: 5px;
+ 	text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 2s ease;}
 
-.DesignButton:hover {
+.DesignButtonLog{
+	clear: both;
+	float: left;
+	display: inline;
+	width: 250px;
+ 	height: 42px;
+ 	margin-left:40%;
+ 	margin-top: 10px;
+	padding: 15px 32px;
+ 	background: rgba(77,77,77,0.3);
+ 	color: white;
+ 	border: none;
+ 	border-radius: 5px;
+ 	text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 2s ease;}
+
+.DesignButton,.DesignButtonInx:hover {
  	width: 100px;
  	background: rgba(255,204,0,0.8);}
+
+.DesignButtonLog:hover{
+	width: 250px;
+ 	background: rgba(255,204,0,0.8);
+}
+
 
 
 /*//Login/*/
@@ -206,8 +250,8 @@ input{
 
 .tab {
 	float: left;
-	margin-top: 250px;
-	margin-right: 250: 
+	margin-top: 0px;
+	margin-right: 250;
 	font-size: 15px;
     overflow: hidden;
     border: 1px solid #ccc;
