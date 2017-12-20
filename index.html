@@ -6,10 +6,10 @@
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
-    <header class"header"> <img class="logo" src="assets/images/logo.png" alt="Laboratoria"> </header>
+    <img class="logo" src="assets/images/logo.png" alt="Laboratoria">
 
     <main>
-      <select id="countrys" onchange ="selectOption(event)" onchange="selectOption1(event)"  class="desing">
+      <select id="countrys" onchange ="selectOption(event)"  class="desing">
           <option > Selecciona la Sede y Generación</option>
           <option  data-sede="AQP"  data-generacion ="2016-2">Arequipa Generación 2016-2</option>
           <option  data-sede="AQP"  data-generacion ="2017-1">Arequipa Generación 2017-1</option>
@@ -23,34 +23,18 @@
           <option  data-sede="SCL" data-generacion ="2017-2">Santiago de Chile Generación 2017-2</option>
       </select>
 
-
+      <div id="overview" class="DesignButton">
+        <button type="button" name="button"><a href="overview.html">Overview</a></button>
+      </div>
 
       <section id="contenedor">
-        <div id="sprintBox" class="sprintBox"></div>
-      </section>
 
-      <section id="col-lef">
-        <h3 class="title">Especialidad</h3>
-        <h3><a class="opcions-exp" href="">Java Script</a></h3>
-        <h3><a class="opcions-exp" href="">UX Desing</a></h3>
-        <h3><a class="opcions-exp" href="">Front end Designer</a></h3>
-      </section>
-
-      <section id="general">
-        <p></p>
-        <!--<div id="infoGeneral" class="general">
-          <p> Numero de Alumnas: </p>
-          <p> Numero de Deserciones: </p>
-          <p> Porcentaje de Jedi: </p>
-          <p> Porcentaje de Profesores: </p>
-
-        </div>-->
       </section>
 
     </main>
 
 		<!-- Base de datos -->
-
+    <script type="text/javascript" src="js/data.js"></script>
 		<!-- Aquí va tus archivos JS -->
     <script src="./js/app.js"></script>
   </body>

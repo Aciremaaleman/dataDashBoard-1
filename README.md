@@ -1,25 +1,19 @@
 # Data Dashboard
 
-* **Track:** _Common Core_
-* **Curso:** _Creando tu primer sitio web interactivo_
-* **Unidad:** _Producto final_
+Creación del producto final Data Dashboard para la empresa Laboratoria.
 
-***
+Deacuerdo a los requerimientos de nuestro cliente:
 
-## Flujo de trabajo
+  - Información general de cada sede y por generación.
+  - Informacion en especifico de cada Alumna.
 
-1. Debes realizar un [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
-   de este repositorio.
+sketch ![](assets/images/sketch.png)
 
-2. Luego deberás **clonar** tu fork en tu máquina. Recuerda que el comando a usar
-   es `git clone` y su estructura normalmente se ve así:
+1. Primer página login.html link directo a la página overview.html.
 
-   ```bash
-   git clone https://github.com/<nombre-de-usuario>/freelancer.git
-   ```
+2. En la segunda página overview.html se encuentra la información general de por sede y generación. A su vez un boton que te lleva a la tercer página index.html y un boton salir.
 
-3. Cuando hayas terminado tu producto, envía un Pull Request a este repositorio
-   (puedes solicitar apoyo de tus profes para este paso).
+3. la tercer página index.html te muestra las opciones de sede y generacion para encontrar la información en especifico de cada alumna.
 
-> Nota: No olvides que es una buena práctica describir tu proyecto en este
-> archivo `README.md` y también desplegar tu web a Github Pages :smiley:.
+
+#Conclusiones
